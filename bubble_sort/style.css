@@ -1,0 +1,22 @@
+.field {
+ margin: 10px 0 10px 0;
+
+}
+.cell {
+    width: 60px;
+    height: 60px;
+    border: solid gray 2px;
+    float: left;
+}
+table {
+    clear: left;
+}
+td {
+    width: 60px;
+    height: 60px;
+    border: solid gray 2px;
+
+}
+.btn {
+    clear: left;
+}
